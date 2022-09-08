@@ -1,0 +1,10 @@
+data/
+out/
+training-runs/
+ui_results/
+out_inversion/
+pretrained_models/
+*.pyc
+.DS_Store
+*.pkl
+.vscode/

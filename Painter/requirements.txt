@@ -1,0 +1,13 @@
+easydict
+matplotlib
+opencv-python
+PyQt5==5.15.7
+PyQt5-sip==12.11.0
+pillow
+dill
+dominate
+scikit-image
+QDarkStyle==3.1
+qdarkgraystyle==1.0.2
+urllib3==1.26.8
+visdom==0.1.8.9

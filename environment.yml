@@ -1,0 +1,30 @@
+name: ide3d
+channels:
+  - pytorch
+  - nvidia
+dependencies:
+  - python=3.9
+  - pip
+  - numpy>=1.20
+  - click>=8.0
+  - pillow=9.0.0
+  - scipy=1.7.1
+  - pytorch=1.10.0
+  - cudatoolkit=11.3
+  - requests=2.27.1
+  - tqdm=4.62.3
+  - ninja=1.10.2.3
+  - matplotlib=3.5.1
+  - imageio=2.13.5
+  - pip:
+    - imgui==1.4.1
+    - glfw==2.5.0
+    - pyopengl==3.1.5
+    - imageio-ffmpeg==0.4.5
+    - pyspng
+    - psutil
+    - mrcfile
+    - tensorboard
+    - einops
+    - pymcubes
+    - pytorch3d==0.6.2

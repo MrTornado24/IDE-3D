@@ -1,0 +1,9 @@
+[submodule "eg3d-nada"]
+	path = eg3d-nada
+	url = git@github.com:MrTornado24/eg3d-nada.git
+[submodule "ide3d-nada"]
+	path = ide3d-nada
+	url = git@github.com:MrTornado24/ide3d-nada.git
+[submodule "dataset_preprocessing/ffhq/Deep3DFaceRecon_pytorch"]
+	path = dataset_preprocessing/ffhq/Deep3DFaceRecon_pytorch
+	url = git@github.com:sicxu/Deep3DFaceRecon_pytorch.git
