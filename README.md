@@ -1,6 +1,6 @@
 # IDE-3D: Interactive Disentangled Editing for High-Resolution 3D-aware Portrait Synthesis 
 
-## SIGGRAPH ASIA 2022 (Journal Track)
+## SIGGRAPH ASIA 2022 (ToG)
 
 ![Teaser image](./docs/rep.png)
 
