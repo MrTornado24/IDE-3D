@@ -73,7 +73,7 @@ python Painter/run_ui.py
 
 ## Preparing datasets
 
-**FFHQ**: Download and process the [Flickr-Faces-HQ dataset](https://github.com/NVlabs/ffhq-dataset) following [EG3D](https://github.com/NVlabs/eg3d). Then, parse semantic masks for all processed images using a [pretrained parsing model](https://drive.google.com/file/d/17H1JR-UJllJ3TCnEbtJscx_GgupTBtqS/view?usp=sharing). The processed data would be placed as:
+**FFHQ**: Download and process the [Flickr-Faces-HQ dataset](https://github.com/NVlabs/ffhq-dataset) following [EG3D](https://github.com/NVlabs/eg3d). Then, parse semantic masks for all processed images using a [pretrained parsing model](https://drive.google.com/file/d/17H1JR-UJllJ3TCnEbtJscx_GgupTBtqS/view?usp=sharing). You can download `dataset.json` for FFHQ [here](https://drive.google.com/file/d/1fnRy9jSscGUsWMA8H0upy1U5hZ6E0ZbP/view?usp=sharing). The processed data would be placed as:
 
 ```
     ├── /path/to/dataset
